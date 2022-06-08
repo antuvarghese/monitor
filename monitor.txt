@@ -1,0 +1,4 @@
+The result of monitoring script stores here.
+You can check here the result after executing the script.
+
+:)
