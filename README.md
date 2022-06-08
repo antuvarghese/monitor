@@ -5,7 +5,8 @@ With this script, we do not have to check each server individually. We run it on
 
 Before you execute
 ------------------
--> Add the server's IP in ip.txt
+-> Add the server's IP in ip.txt .
+
 -> Give execute permission(chmod u+x monitor.sh).
 
 The result will stored in monitor.txt file.
